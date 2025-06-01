@@ -1,0 +1,21 @@
+    body {
+      padding-top: 60px;
+      background-image: url(/photos/download.jpeg);
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      color: #fff;
+    }
+    form {
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .accordion-body,
+    .list-group-item {
+        background-color: rgba(255, 255, 255, 0.85);
+        color: #000;}
+     .navbar {
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+      }
